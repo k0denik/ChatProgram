@@ -1,0 +1,6 @@
+C:\Users\koden\Documents\Visual Studio 2015\Projects\ChatProgram\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\koden\Documents\Visual Studio 2015\Projects\ChatProgram\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\koden\Documents\Visual Studio 2015\Projects\ChatProgram\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\koden\Documents\Visual Studio 2015\Projects\ChatProgram\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+C:\Users\koden\Documents\Visual Studio 2015\Projects\ChatProgram\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\koden\Documents\Visual Studio 2015\Projects\ChatProgram\ChatServer\obj\Debug\ChatServer.pdb

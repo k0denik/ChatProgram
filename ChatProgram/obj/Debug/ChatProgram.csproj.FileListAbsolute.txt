@@ -1,0 +1,10 @@
+C:\Users\koden\Documents\Visual Studio 2015\Projects\ChatProgram\ChatProgram\bin\Debug\ChatProgram.exe.config
+C:\Users\koden\Documents\Visual Studio 2015\Projects\ChatProgram\ChatProgram\bin\Debug\ChatProgram.exe
+C:\Users\koden\Documents\Visual Studio 2015\Projects\ChatProgram\ChatProgram\bin\Debug\ChatProgram.pdb
+C:\Users\koden\Documents\Visual Studio 2015\Projects\ChatProgram\ChatProgram\obj\Debug\ChatProgram.csprojResolveAssemblyReference.cache
+C:\Users\koden\Documents\Visual Studio 2015\Projects\ChatProgram\ChatProgram\obj\Debug\ChatProgram.Form1.resources
+C:\Users\koden\Documents\Visual Studio 2015\Projects\ChatProgram\ChatProgram\obj\Debug\ChatProgram.Properties.Resources.resources
+C:\Users\koden\Documents\Visual Studio 2015\Projects\ChatProgram\ChatProgram\obj\Debug\ChatProgram.csproj.GenerateResource.Cache
+C:\Users\koden\Documents\Visual Studio 2015\Projects\ChatProgram\ChatProgram\obj\Debug\ChatProgram.exe
+C:\Users\koden\Documents\Visual Studio 2015\Projects\ChatProgram\ChatProgram\obj\Debug\ChatProgram.pdb
+C:\Users\koden\Documents\Visual Studio 2015\Projects\ChatProgram\ChatProgram\obj\Debug\ChatProgram.ServerChatForm.resources
